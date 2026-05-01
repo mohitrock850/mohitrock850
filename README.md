@@ -266,7 +266,7 @@
   <img src="https://img.shields.io/badge/Email-mohittherockers@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://xelytics.live">
-  <img src="https://img.shields.io/badge/Xelytics-My%20Startup-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/My%20Work%20%40-Xelytics-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </a>
 <a href="https://github.com/mohitrock850">
   <img src="https://img.shields.io/badge/GitHub-mohitrock850-181717?style=for-the-badge&logo=github&logoColor=white"/>
