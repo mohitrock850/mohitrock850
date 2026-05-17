@@ -5,13 +5,21 @@
 ### AI/ML Engineer · Agentic AI Systems · Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;LLM+Pipelines+%7C+Autonomous+Agents+%7C+RAG;Full-Stack+Dev+%7C+MERN+%7C+FastAPI+%7C+Next.js;AI+Engineer+%40+Xelytics+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;LLM+Pipelines+%7C+Autonomous+Agents+%7C+RAG;Full-Stack+Dev+%7C+MERN+%7C+FastAPI+%7C+Next.js;AI+Engineer+%40+Xelytics+%F0%9F%9A%80;Smart+Inventory+%7C+Enterprise+Systems+%F0%9F%93%A6" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I'm a B.Tech AI/ML Engineering student <strong>(CGPA: 9.30/10)</strong> with hands-on experience shipping production-grade AI systems — from multi-agent orchestration pipelines and autonomous voice assistants to full-stack SaaS platforms.<br/>
+  I'm a B.Tech AI/ML Engineering student <strong>(CGPA: 9.30/10)</strong> with hands-on experience shipping production-grade AI systems — from multi-agent orchestration pipelines and autonomous voice assistants to full-stack SaaS platforms and enterprise inventory management ecosystems.<br/>
   I specialize in designing end-to-end intelligent systems that bridge <strong>agentic AI infrastructure</strong> and <strong>scalable web applications</strong>, currently building at <a href="https://xelytics.live"><strong>Xelytics</strong></a>.<br/>
   Holder of <strong>30+ patents</strong> and national-level hackathon leader.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitrock850&label=Profile%20Views&color=7B2FBE&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mohitrock850?label=Followers&style=flat-square&color=7B2FBE" alt="GitHub Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square&logo=github" alt="Open to Work"/>
 </p>
 
 ---
@@ -23,6 +31,7 @@
 - 🏗️ **Building** [Xelytics](https://xelytics.live) — a zero-config AI analytics platform that auto-ingests data, selects statistical models, and generates narrative insights with dynamic visualizations
 - 🤖 **Engineering** multi-agent systems with **CrewAI, LangGraph & Google ADK** for complex enterprise automation tasks
 - 🧠 **Exploring** Model Context Protocol (MCP), advanced RAG architectures (Hybrid FAISS + BM25), and agentic tool-calling patterns
+- 📦 **Shipping** enterprise-grade microservices platforms combining ML forecasting with real-time inventory intelligence
 - 🌱 **Deepening** expertise in LLM fine-tuning (**LoRA/PEFT**), graph databases (**Neo4j**), and quantitative financial modeling
 
 ---
@@ -51,8 +60,14 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & APIs
@@ -61,14 +76,20 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-003366?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-00B4D8?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
@@ -83,10 +104,21 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
+
+### 📐 CS Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-00B4D8?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ### 📈 Trading & Quantitative Finance
@@ -133,6 +165,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📦 Smart Inventory System</h3>
+      <p><em>Enterprise-Grade AI-Powered Inventory & Demand Forecasting Platform</em></p>
+      <p>A microservices-inspired inventory management platform featuring an ARIMA/Prophet ML forecasting service, WebSocket-driven real-time sync, JWT role-based access control, and a native Kotlin Android app with hardware barcode scanning — all orchestrated through a Node.js API gateway proxying requests across a React web dashboard, MongoDB, and a decoupled FastAPI ML microservice.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/mohitrock850/Smart-Inventory-System"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚡ Rule Intelligence</h3>
       <p><em>Visual DAG Workflow Automation Platform</em></p>
       <p>A full-stack DAG-driven workflow automation platform with a scalable Node.js execution engine, drag-and-drop React interface, and WebSocket-powered real-time execution tracking — think n8n, built from scratch.</p>
@@ -147,6 +197,8 @@
         <a href="https://poetic-croissant-bc6fdb.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📊 StockBuddy</h3>
       <p><em>AI-Powered Financial Analytics Platform</em></p>
@@ -161,8 +213,6 @@
         <a href="https://github.com/mohitrock850/StockBuddy"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github"/></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛍️ Maison Aurelle</h3>
       <p><em>Full-Stack Luxury E-Commerce Platform</em></p>
@@ -179,6 +229,8 @@
         <a href="https://maison-aurelle.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📊 Xelytics</h3>
       <p><em>Zero-Config AI Analytics Platform</em></p>
@@ -192,6 +244,9 @@
       <p>
         <a href="https://xelytics.live"><img src="https://img.shields.io/badge/Live-Platform-46E3B7?style=flat-square&logo=render&logoColor=black"/></a>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Reserved for next project -->
     </td>
   </tr>
 </table>
@@ -252,6 +307,16 @@
 
 ---
 
+## 🤝 Open Source & Collaboration
+
+I believe in building in public and contributing to the developer community. If you're working on something at the intersection of **AI/ML**, **agentic systems**, or **full-stack engineering**, I'm always open to collaboration.
+
+- 💡 Open to **open-source contributions** on AI tooling, developer infrastructure, and intelligent automation
+- 🔧 Happy to review PRs, pair on architecture, or consult on LLM integration patterns
+- 📢 Sharing learnings on multi-agent design, RAG pipelines, and production AI deployments
+
+---
+
 ## 📫 How to Reach Me
 
 <div align="center">
@@ -277,6 +342,12 @@
 ---
 
 <div align="center">
+
+### 💬 Let's Build Something Extraordinary
+
+> Whether you're a **recruiter** scouting for top AI/ML talent, a **founder** looking to add agentic intelligence to your product, or a **developer** passionate about pushing the boundaries of autonomous systems — I'd love to connect.
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mohitrock850&label=Profile%20Views&color=7B2FBE&style=flat-square" alt="Profile Views"/>
 
